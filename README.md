@@ -1,2 +1,2 @@
 # datacamp
-My project on datacamp
+My projects on datacamp
